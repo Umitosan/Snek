@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1474783149 source:c:\users\umito\desktop\c++ projects\snake\board.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"board.h"
+
+1474783691 source:c:\users\umito\desktop\c++ projects\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"board.h"
+	"snek.h"
+
+1474783718 c:\users\umito\desktop\c++ projects\snake\board.h
+	"snek.h"
+
+1474779850 c:\users\umito\desktop\c++ projects\snake\snek.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1474779852 source:c:\users\umito\desktop\c++ projects\snake\snek.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"snek.h"
+
+1475366440 source:c:\users\umito\desktop\c++ projects\snake\_working\board.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"board.h"
+
+1475366165 c:\users\umito\desktop\c++ projects\snake\_working\board.h
+	"snek.h"
+
+1478309900 c:\users\umito\desktop\c++ projects\snake\_working\snek.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"board.h"
+
+1475350432 source:c:\users\umito\desktop\c++ projects\snake\_working\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"board.h"
+	"snek.h"
+
+1475369915 source:c:\users\umito\desktop\c++ projects\snake\_working\snek.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"snek.h"
+
